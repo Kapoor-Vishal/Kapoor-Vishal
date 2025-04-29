@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Vishal Kapoor</a> 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Power+BI+%7C+Python+%7C+SQL+%7C+Web+Scraping;Passionate+about+Data+Visualization+%26+Insights;&center=true&width=500&height=45">
-</p>
-
 ---
 
 ### 👨‍💻 About Me
